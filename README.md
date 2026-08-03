@@ -11,6 +11,7 @@
 | Day 1 | [AI 賦能的時代，我們究竟該學 AI，還是學會如何學習？](Day1/day1.md) | 簡介 |
 | Day 2 | [AI 不是在讀文字：Transformer 如何一路猜出下一個 Token？](Day2/day2.md) | 拆解文字如何進入、通過並離開 Transformer |
 | Day 3 | [從 GPT-1 到 GPT-3：模型只是越做越大嗎？](Day3/day03.md) | 理解規模、資料與 Context 如何改變任務適應 |
+| Day 4 | [AI 的內心戲：Chain-of-Thought 與 Reasoning Model 有什麼關係？](Day4/day04.md) | 分辨思維鏈提示與推理模型，檢視可見推理的限制 |
 
 ## 系列方向
 
