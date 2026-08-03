@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Day 1 | [AI 賦能的時代，我們究竟該學 AI，還是學會如何學習？](Day1/day1.md) | 簡介 |
 | Day 2 | [AI 不是在讀文字：Transformer 如何一路猜出下一個 Token？](Day2/day2.md) | 拆解文字如何進入、通過並離開 Transformer |
+| Day 3 | [從 GPT-1 到 GPT-3：模型只是越做越大嗎？](Day3/day03.md) | 理解規模、資料與 Context 如何改變任務適應 |
 
 ## 系列方向
 
