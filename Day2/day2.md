@@ -148,6 +148,8 @@ Attention 的計算會使用 Query、Key 與 Value。可以用搜尋引擎來類
 
 理解 Transformer，不只是為了多記一個名詞，而是為了知道自己正在把什麼工作交給 AI，以及哪些責任仍然不能外包。
 
+如果想更進一步的可以看Github上的 day2.ipynb 裡面簡單展示了QKV機制，以及用Qwen2.5-0.5B-Instruct測試temperature以及topk-k。
+
 **明天**，我們會繼續沿著這條線往前走：既然模型只是在預測下一個 Token，為什麼規模變大之後，它卻開始像是會回答問題、寫文章，甚至進行推理？
 
 今天的內容稍微有點多，第一次玩Transformer Explainer也不見得可以很好的理解，如果有問題，各位可以把文章同步貼到自己喜歡的AI網頁，像：GPT, Claude, Gemini, Grok...等，讓AI來輔助自己學習。
