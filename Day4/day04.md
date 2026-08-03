@@ -130,7 +130,7 @@ Reasoning Model 則比較像是已經接受過訓練，知道遇到複雜問題�
 >
 > 畫面上看到的是模型生成的**推理軌跡（Reasoning Trace）**，不等於我們直接讀取了神經網路裡全部、真實且完整的內部計算。研究已經發現，模型寫出的 Chain-of-Thought 有時能反映解題過程，有時則可能不完整，甚至與真正影響答案的因素不完全一致。
 
-請打開 [ollama_test.md](ollama_test.md)看完整的思維鏈、繁體中文翻譯與模型回覆。
+請打開 [ollama_test.md](https://github.com/geomingical/2026_ithome_AI_learning/blob/main/Day4/ollama_test.md)看完整的思維鏈、繁體中文翻譯與模型回覆。
 
 ### 地端模型實驗
 
@@ -179,7 +179,7 @@ Chain-of-Thought 本身也是模型生成的文字。它可能是解題過程的
 
 ## 停下來想一想
 
-Chain-of-Thought 最有意思的地方，不只是讓模型表現得更好，而是把「如何走到答案」這件事拉到我們眼前。
+Chain-of-Thought 最有意思的地方，不只是讓模型表現得更好，而是把「如何走到答案」這件事拉到我們眼前。想看更多案例的可以到[day4_practice.ipynb](https://github.com/geomingical/2026_ithome_AI_learning/blob/main/Day4/day4_practice.ipynb)
 
 當我們要求 AI 拆解問題時，其實也在反過來練習自己的思考：這個問題包含哪些條件？中間缺少哪一步？哪個假設需要驗證？我們為什麼相信這個答案？
 
