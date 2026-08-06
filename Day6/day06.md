@@ -193,20 +193,6 @@ get_weather(location)
 
 AI 可以協助你產生 schema、串接 API 與撰寫程式碼，但有人仍要決定權限、驗證條件、錯誤處理與高風險操作的確認方式。叫 AI 幫忙蓋橋沒有問題，只是橋蓋完還是要驗收，不能因為程式碼縮排很整齊就直接剪綵通車。
 
-## Function Calling、API 與 Structured Output
-
-這三個名詞很容易纏在一起，可以先這樣分：
-
-- **API**：外部服務提供的聯絡窗口。
-- **Function Calling**：模型根據自然語言，提出該呼叫哪個工具及所需參數。
-- **Structured Output**：要求模型最後的答案符合指定資料格式。
-
-例如，天氣服務原本就可以提供 API，不需要 AI 才能運作。Function Calling 的價值，是讓模型理解「使用者現在需要查天氣」，再整理出地點參數。
-
-如果只是把履歷整理成姓名、技能與經歷三個欄位，比較像 Structured Output；如果要查詢公司招募系統中的面試紀錄，才需要工具去取得外部資料。
-
-三者都可能看到 JSON，但不要因為紙箱長得很像，就把倉庫、物流公司和收件表格當成同一件事。
-
 ## 會使用工具，也代表有機會用錯工具
 
 如果模型只是把天氣講錯，我們可能白帶一把傘；但如果它能寄信、付款、刪除檔案或修改資料庫，錯誤參數就不只是小尷尬。
@@ -237,7 +223,7 @@ AI 可以協助你產生 schema、串接 API 與撰寫程式碼，但有人仍�
 - 高風險動作有沒有先確認？
 - 最後結果能不能在外部系統中驗證？
 
-細部的資料可以到[day06_practice.ipynb](day06_practice.ipynb)
+進階的測試可以到[day06_practice.ipynb](https://github.com/geomingical/2026_ithome_AI_learning/blob/main/Day6/day06_practice.ipynb)
 
 而對開發者來說，Function Calling 真正改變的也不是讓模型突然變成萬能，而是替自然語言與外部系統之間建立一套合作方式。
 
