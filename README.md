@@ -15,6 +15,8 @@
 | Day 5 | [我開始聽不懂了：用類比建立 AI 專有名詞的鷹架](Day5/day05.md) | 以大掃除類比整理 Agentic AI 的核心名詞與關係 |
 | Day 6 | [從會說到會做：Function Calling 如何讓 AI 開始使用工具？](Day6/day06.md) | 從使用者與開發者視角理解 AI 如何選擇、呼叫並執行工具 |
 | Day 7 | [AI 都能幫我寫格式了，我還需要懂 Markdown、JSON 和 HTML 嗎？](Day7/day07.md) | 從初學者視角理解不同格式的用途，以及何時交給 AI 處理 |
+| Day 8 | [Prompt Engineering I：如何用自然語言交代工作？](Day8/day08.md) | 用 CO-STAR 將情境、目標、限制與輸出要求說清楚 |
+| Day 9 | [Prompt Engineering II：好的 Prompt 為什麼需要迭代？](Day9/day09.md) | 從生成結果的落差學習驗收、迭代與驗證 |
 
 ## 系列方向
 
