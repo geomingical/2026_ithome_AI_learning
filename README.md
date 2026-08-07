@@ -14,6 +14,7 @@
 | Day 4 | [AI 的內心戲：Chain-of-Thought 與 Reasoning Model 有什麼關係？](Day4/day04.md) | 分辨思維鏈提示與推理模型，檢視可見推理的限制 |
 | Day 5 | [我開始聽不懂了：用類比建立 AI 專有名詞的鷹架](Day5/day05.md) | 以大掃除類比整理 Agentic AI 的核心名詞與關係 |
 | Day 6 | [從會說到會做：Function Calling 如何讓 AI 開始使用工具？](Day6/day06.md) | 從使用者與開發者視角理解 AI 如何選擇、呼叫並執行工具 |
+| Day 7 | [AI 都能幫我寫格式了，我還需要懂 Markdown、JSON 和 HTML 嗎？](Day7/day07.md) | 從初學者視角理解不同格式的用途，以及何時交給 AI 處理 |
 
 ## 系列方向
 
