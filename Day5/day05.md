@@ -61,18 +61,11 @@
 
 因此，類比不是要取代正式定義，而是讓我們有機會走到正式定義面前，而不是在半路就關掉網頁。
 
-![Agentic AI Glossary 的 MCP 名詞卡](MCP.png)
-
-*圖：以生活語言與正式定義並列的 MAP 名詞卡。*
-
 ## 我把 Agentic AI 想成一次大掃除
 
 為了理解 Agentic AI，我替自己建立了一個共同場景 [Agentic AI Glossary](https://github.com/geomingical/Agentic_AI_Glossary)。：
 
 > **把完成一項複雜工作，想成完成一次大掃除。**
-
-![Agentic AI Glossary 首頁](AI_glosssary.png)
-*圖：Agentic AI Glossary 首頁，以清潔團隊呈現從單次指令到管理 AI 團隊的概念。*
 
 這個類比不是要把 AI 說成清潔員，而是用一個大家相對熟悉的場景，觀察不同角色如何分工。（會選這個情境，只是因為建立學習鷹架時剛好在農曆年前⋯⋯你也可以把框架換成自己熟悉的場景。）
 

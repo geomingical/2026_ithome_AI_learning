@@ -24,9 +24,6 @@
 
 在個人學習的途徑中，曾聽過李海碩總校長的演講，分享了 [Pathsmith](https://www.pathsmith.org/) 的框架，把「未來人才需要的軟實力」拆解成 10 大能力領域、將近 100 個具體的關鍵字／子技能：溝通（Communication）、協作（Collaboration）、品格（Character）、正念／覺察（Mindfulness）、元認知（Metacognition）、領導（Leadership）、成長心態（Growth Mindset）、堅韌（Fortitude）、批判性思考（Critical Thinking）、創造力（Creativity）。
 
-![Pathsmith Durable Skills Wheel，將10大能力領域與近100個子技能整理成一張輪狀圖](images/下載.jpeg)
-*圖片來源：[Pathsmith by America Succeeds](https://www.pathsmith.org/tools/)*
-
 看到這張圖的當下，我的第一個念頭是：這根本是人生遊戲的技能樹。後來仔細看說明才發現，這其實是彙整全體職場需求畫出來的地圖，不是要求每個人都要點滿——但就算只是「假設一個人真的想全部點滿」，光用想的就覺得不可能。
 
 ## 除非你是人格分裂，或者剛好是個 MoE
