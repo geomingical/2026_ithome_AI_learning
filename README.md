@@ -17,6 +17,7 @@
 | Day 7 | [AI 都能幫我寫格式了，我還需要懂 Markdown、JSON 和 HTML 嗎？](Day7/day07.md) | 從初學者視角理解不同格式的用途，以及何時交給 AI 處理 |
 | Day 8 | [Prompt Engineering I：如何用自然語言交代工作？](Day8/day08.md) | 用 CO-STAR 將情境、目標、限制與輸出要求說清楚 |
 | Day 9 | [Prompt Engineering II：好的 Prompt 為什麼需要迭代？](Day9/day09.md) | 從生成結果的落差學習驗收、迭代與驗證 |
+| Day 10 | [當 Prompt 開始挑戰規則：Jailbreak 到底是在「越」什麼獄？](Day10/day10.md) | 從越獄案例理解模型安全、Red Team 與多層防護 |
 
 ## 系列方向
 
