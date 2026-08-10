@@ -18,6 +18,7 @@
 | Day 8 | [Prompt Engineering I：如何用自然語言交代工作？](Day8/day08.md) | 用 CO-STAR 將情境、目標、限制與輸出要求說清楚 |
 | Day 9 | [Prompt Engineering II：好的 Prompt 為什麼需要迭代？](Day9/day09.md) | 從生成結果的落差學習驗收、迭代與驗證 |
 | Day 10 | [當 Prompt 開始挑戰規則：Jailbreak 到底是在「越」什麼獄？](Day10/day10.md) | 從越獄案例理解模型安全、Red Team 與多層防護 |
+| Day 11 | [當資料裡也藏著指令：Prompt Injection 為什麼比 Jailbreak 更麻煩？](Day11/day11.md) | 從網頁、文件與外部資料理解 Prompt Injection 的風險與防護 |
 | Day 12 | [Context Engineering I：Context 如何被堆疊？](Day12/day12.md) | 看見系統規則、對話、記憶與工具結果如何組成模型的工作桌 |
 | Day 13 | [Context Engineering II：替 AI 的工作桌減壓](Day13/day13.md) | 從 Context Pollution 與 Subagents 理解如何保留真正需要的資訊 |
 
