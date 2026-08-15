@@ -21,6 +21,9 @@
 | Day 11 | [當資料裡也藏著指令：Prompt Injection 為什麼比 Jailbreak 更麻煩？](Day11/day11.md) | 從網頁、文件與外部資料理解 Prompt Injection 的風險與防護 |
 | Day 12 | [Context Engineering I：Context 如何被堆疊？](Day12/day12.md) | 看見系統規則、對話、記憶與工具結果如何組成模型的工作桌 |
 | Day 13 | [Context Engineering II：替 AI 的工作桌減壓](Day13/day13.md) | 從 Context Pollution 與 Subagents 理解如何保留真正需要的資訊 |
+| Day 14 | [OpenAI工作流：ChatGPT, GPTs, Codex, GPT Live](Day14/day14.md) | 從日常任務理解 OpenAI 工具如何分工 |
+| Day 15 | [Google：先試模型，再把資料變成自己的知識工作區](Day15/day15.md) | 用 AI Studio 與 NotebookLM 建立自己的知識工作流程 |
+| Day 16 | [Claude：從設計初稿到 Claude Code，讓 AI 成為工作夥伴](Day16/day16.md) | 從 Claude 的產品生態系理解 AI 如何參與工作 |
 
 ## 系列方向
 
