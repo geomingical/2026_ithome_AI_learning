@@ -24,6 +24,7 @@
 | Day 14 | [OpenAI工作流：ChatGPT, GPTs, Codex, GPT Live](Day14/day14.md) | 從日常任務理解 OpenAI 工具如何分工 |
 | Day 15 | [Google：先試模型，再把資料變成自己的知識工作區](Day15/day15.md) | 用 AI Studio 與 NotebookLM 建立自己的知識工作流程 |
 | Day 16 | [Claude：從設計初稿到 Claude Code，讓 AI 成為工作夥伴](Day16/day16.md) | 從 Claude 的產品生態系理解 AI 如何參與工作 |
+| Day 17 | [Ollama：把模型帶回自己的電腦，哪些工作值得留在本機？](Day17/day17.md) | 理解本機模型的硬體限制、適用工作與取捨 |
 
 ## 系列方向
 
