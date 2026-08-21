@@ -45,6 +45,7 @@
 | --- | --- | --- |
 | Day 19 | [CLAUDE.md、AGENTS.md 與 Hooks：為 Agent 建立工作規則](Day19/day19.md) | 從專案規則、讀取回條與 Hooks 理解如何讓 Agent 穩定地工作 |
 | Day 20 | [MCP：如果每個 AI 都有不同插頭，我們能不能先統一插座？](Day20/day20.md) | 從 Local／Remote MCP、權限與練習 Notebook 認識 AI 如何安全接上外部工具 |
+| Day 21 | [Skill：現在連「工作方法」都能直接安裝了？](Day21/day21.md) | 從可重複使用的工作方法理解 Skill 的用途、限制與判斷邊界 |
 
 ## 系列方向
 
